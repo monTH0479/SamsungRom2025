@@ -1,4 +1,4 @@
-# SamsungRom2025
+# SamsungCustomRom2025
 Here is a collection of roms for samsung phones with tools
 
 This is a simple collection of Samsung custom ROMs and useful tools.
